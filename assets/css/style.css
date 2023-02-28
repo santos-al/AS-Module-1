@@ -214,22 +214,11 @@ other containers */
 }
 
 /* Sets the title size and gives it some space on the bottom from the text for the 'article' section */
-.search-engine-optimization h2 {
+article.h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* Sets the title size and gives it some space on the bottom from the text for the 'article' section */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Sets the title size and gives it some space on the bottom from the text for the 'article' section */
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /* This adds a padding around the footer text. It also centers the text and sets a font style */
 .footer {
