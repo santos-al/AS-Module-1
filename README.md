@@ -9,3 +9,5 @@ https://santos-al.github.io/AS-Module-1/
 
 1) Fixed the "Search Engine Optimization" link
 2) Changed the HTML tags
+3) Comments on CSS
+4) Optimized CSS
